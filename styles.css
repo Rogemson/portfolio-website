@@ -241,7 +241,7 @@ h2 img {
 }
 
 .resume-button img {
-    margin-left: 10px; /* Adjust margin as needed */
+    margin-left: 10px;
 }
 
 #home .text-container h3, #home .text-container h1, #home .text-container h2, .work-info button {
@@ -485,13 +485,13 @@ h2 img {
     padding-top: 100px;
     position: relative;
     background: #fffafa;
-    animation: fadeIn 1s ease-in-out; /* Fade-in animation */
+    animation: fadeIn 1s ease-in-out; 
     transition: opacity 0.5s;
 }
 
 #portfolio.hidden {
     opacity: 0;
-    animation: fadeOut 1s ease-in-out; /* Fade-out animation */
+    animation: fadeOut 1s ease-in-out; 
 }
 
 #portfolio h2 {
